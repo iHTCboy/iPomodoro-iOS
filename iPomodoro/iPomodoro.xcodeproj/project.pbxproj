@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6D0C2B76218212AD002CA924 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 6D0C2B74218212AD002CA924 /* LICENSE */; };
+		6D0C2B77218212AD002CA924 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 6D0C2B75218212AD002CA924 /* README.md */; };
 		6D20F9D8217B122A004A4ED1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D20F9D7217B122A004A4ED1 /* AppDelegate.swift */; };
 		6D20F9DA217B122A004A4ED1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D20F9D9217B122A004A4ED1 /* ViewController.swift */; };
 		6D20F9DD217B122A004A4ED1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6D20F9DB217B122A004A4ED1 /* Main.storyboard */; };
@@ -34,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6D0C2B74218212AD002CA924 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = ../../LICENSE; sourceTree = "<group>"; };
+		6D0C2B75218212AD002CA924 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../README.md; sourceTree = "<group>"; };
 		6D20F9D4217B122A004A4ED1 /* iPomodoro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iPomodoro.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D20F9D7217B122A004A4ED1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6D20F9D9217B122A004A4ED1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +107,8 @@
 				6D20F9DE217B122A004A4ED1 /* Assets.xcassets */,
 				6D20F9E0217B122A004A4ED1 /* LaunchScreen.storyboard */,
 				6D20F9E3217B122A004A4ED1 /* Info.plist */,
+				6D0C2B74218212AD002CA924 /* LICENSE */,
+				6D0C2B75218212AD002CA924 /* README.md */,
 			);
 			path = iPomodoro;
 			sourceTree = "<group>";
@@ -231,6 +237,8 @@
 			files = (
 				6D20F9E2217B122A004A4ED1 /* LaunchScreen.storyboard in Resources */,
 				6D20F9DF217B122A004A4ED1 /* Assets.xcassets in Resources */,
+				6D0C2B77218212AD002CA924 /* README.md in Resources */,
+				6D0C2B76218212AD002CA924 /* LICENSE in Resources */,
 				6D20F9DD217B122A004A4ED1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
