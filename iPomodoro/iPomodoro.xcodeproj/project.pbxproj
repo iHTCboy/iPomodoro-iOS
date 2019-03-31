@@ -16,6 +16,9 @@
 		6D20F9E2217B122A004A4ED1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6D20F9E0217B122A004A4ED1 /* LaunchScreen.storyboard */; };
 		6D20F9ED217B122B004A4ED1 /* iPomodoroTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D20F9EC217B122B004A4ED1 /* iPomodoroTests.swift */; };
 		6D20F9F8217B122B004A4ED1 /* iPomodoroUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D20F9F7217B122B004A4ED1 /* iPomodoroUITests.swift */; };
+		71D0BBD7E36F1BF59C5C8D75 /* Pods_iPomodoroUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 16C1AA5D45A7A341B6B52840 /* Pods_iPomodoroUITests.framework */; };
+		7606967AF5CAFD7EA3DC8155 /* Pods_iPomodoroTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BDFDC6D8B93A878738D5CF04 /* Pods_iPomodoroTests.framework */; };
+		B535E38F70A2EAB1328798AD /* Pods_iPomodoro.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 375687D1D874B7B1374454AF /* Pods_iPomodoro.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +39,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		16C1AA5D45A7A341B6B52840 /* Pods_iPomodoroUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_iPomodoroUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		375687D1D874B7B1374454AF /* Pods_iPomodoro.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_iPomodoro.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		42A6E0C883EB357582438950 /* Pods-iPomodoro.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iPomodoro.release.xcconfig"; path = "Pods/Target Support Files/Pods-iPomodoro/Pods-iPomodoro.release.xcconfig"; sourceTree = "<group>"; };
+		4A44C43902ADFF8F9697ABC9 /* Pods-iPomodoroTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iPomodoroTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-iPomodoroTests/Pods-iPomodoroTests.release.xcconfig"; sourceTree = "<group>"; };
 		6D0C2B74218212AD002CA924 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = ../../LICENSE; sourceTree = "<group>"; };
 		6D0C2B75218212AD002CA924 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../README.md; sourceTree = "<group>"; };
 		6D20F9D4217B122A004A4ED1 /* iPomodoro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iPomodoro.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -51,6 +58,11 @@
 		6D20F9F3217B122B004A4ED1 /* iPomodoroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iPomodoroUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D20F9F7217B122B004A4ED1 /* iPomodoroUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iPomodoroUITests.swift; sourceTree = "<group>"; };
 		6D20F9F9217B122B004A4ED1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6E9A4CA04B9B2211DAD3A2BC /* Pods-iPomodoroUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iPomodoroUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-iPomodoroUITests/Pods-iPomodoroUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		70D5C3D97256E718424B2413 /* Pods-iPomodoroTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iPomodoroTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-iPomodoroTests/Pods-iPomodoroTests.debug.xcconfig"; sourceTree = "<group>"; };
+		AEE1C9FD21E38C7E6920B6C1 /* Pods-iPomodoro.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iPomodoro.debug.xcconfig"; path = "Pods/Target Support Files/Pods-iPomodoro/Pods-iPomodoro.debug.xcconfig"; sourceTree = "<group>"; };
+		BDFDC6D8B93A878738D5CF04 /* Pods_iPomodoroTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_iPomodoroTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E52DCCBC5FC54B81B64B9335 /* Pods-iPomodoroUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iPomodoroUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-iPomodoroUITests/Pods-iPomodoroUITests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +70,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B535E38F70A2EAB1328798AD /* Pods_iPomodoro.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +78,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7606967AF5CAFD7EA3DC8155 /* Pods_iPomodoroTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,12 +86,36 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				71D0BBD7E36F1BF59C5C8D75 /* Pods_iPomodoroUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0B5B7A0FB9E761DB1B6B02B1 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				AEE1C9FD21E38C7E6920B6C1 /* Pods-iPomodoro.debug.xcconfig */,
+				42A6E0C883EB357582438950 /* Pods-iPomodoro.release.xcconfig */,
+				70D5C3D97256E718424B2413 /* Pods-iPomodoroTests.debug.xcconfig */,
+				4A44C43902ADFF8F9697ABC9 /* Pods-iPomodoroTests.release.xcconfig */,
+				6E9A4CA04B9B2211DAD3A2BC /* Pods-iPomodoroUITests.debug.xcconfig */,
+				E52DCCBC5FC54B81B64B9335 /* Pods-iPomodoroUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		53B873803DCBE255E4D54845 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				375687D1D874B7B1374454AF /* Pods_iPomodoro.framework */,
+				BDFDC6D8B93A878738D5CF04 /* Pods_iPomodoroTests.framework */,
+				16C1AA5D45A7A341B6B52840 /* Pods_iPomodoroUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		6D20F9CB217B122A004A4ED1 = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +123,8 @@
 				6D20F9EB217B122B004A4ED1 /* iPomodoroTests */,
 				6D20F9F6217B122B004A4ED1 /* iPomodoroUITests */,
 				6D20F9D5217B122A004A4ED1 /* Products */,
+				0B5B7A0FB9E761DB1B6B02B1 /* Pods */,
+				53B873803DCBE255E4D54845 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -138,6 +178,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 6D20F9FC217B122B004A4ED1 /* Build configuration list for PBXNativeTarget "iPomodoro" */;
 			buildPhases = (
+				B0A42CC6790F45464E07D1A7 /* [CP] Check Pods Manifest.lock */,
 				6D20F9D0217B122A004A4ED1 /* Sources */,
 				6D20F9D1217B122A004A4ED1 /* Frameworks */,
 				6D20F9D2217B122A004A4ED1 /* Resources */,
@@ -155,6 +196,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 6D20F9FF217B122B004A4ED1 /* Build configuration list for PBXNativeTarget "iPomodoroTests" */;
 			buildPhases = (
+				D75D57372BA28C57B6ABDB37 /* [CP] Check Pods Manifest.lock */,
 				6D20F9E4217B122B004A4ED1 /* Sources */,
 				6D20F9E5217B122B004A4ED1 /* Frameworks */,
 				6D20F9E6217B122B004A4ED1 /* Resources */,
@@ -173,6 +215,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 6D20FA02217B122B004A4ED1 /* Build configuration list for PBXNativeTarget "iPomodoroUITests" */;
 			buildPhases = (
+				66004E9EA70457222140CB75 /* [CP] Check Pods Manifest.lock */,
 				6D20F9EF217B122B004A4ED1 /* Sources */,
 				6D20F9F0217B122B004A4ED1 /* Frameworks */,
 				6D20F9F1217B122B004A4ED1 /* Resources */,
@@ -258,6 +301,75 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		66004E9EA70457222140CB75 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-iPomodoroUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B0A42CC6790F45464E07D1A7 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-iPomodoro-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D75D57372BA28C57B6ABDB37 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-iPomodoroTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		6D20F9D0217B122A004A4ED1 /* Sources */ = {
@@ -438,6 +550,7 @@
 		};
 		6D20F9FD217B122B004A4ED1 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = AEE1C9FD21E38C7E6920B6C1 /* Pods-iPomodoro.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -456,6 +569,7 @@
 		};
 		6D20F9FE217B122B004A4ED1 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 42A6E0C883EB357582438950 /* Pods-iPomodoro.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -474,6 +588,7 @@
 		};
 		6D20FA00217B122B004A4ED1 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 70D5C3D97256E718424B2413 /* Pods-iPomodoroTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -495,6 +610,7 @@
 		};
 		6D20FA01217B122B004A4ED1 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4A44C43902ADFF8F9697ABC9 /* Pods-iPomodoroTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -516,6 +632,7 @@
 		};
 		6D20FA03217B122B004A4ED1 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6E9A4CA04B9B2211DAD3A2BC /* Pods-iPomodoroUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -536,6 +653,7 @@
 		};
 		6D20FA04217B122B004A4ED1 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E52DCCBC5FC54B81B64B9335 /* Pods-iPomodoroUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
